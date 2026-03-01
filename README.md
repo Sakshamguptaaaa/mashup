@@ -71,4 +71,3 @@ python 102317256.py "Arijit Singh" 15 25 arijit_mix.mp3
 **Author**: Saksham Gupta
 **Roll No**: 102317256 
 **University**: Thapar Institute of Engineering & Technology  
-**LinkedIn**: [deepanshtandon012](https://www.linkedin.com/in/deepanshtandon012/)
