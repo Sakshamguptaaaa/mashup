@@ -19,7 +19,7 @@ A dual-interface application (Web & CLI) for creating custom music mashups. The 
 mashup-main/
 ├── app.py              # Flask Web Application & API
 ├── index.html          # Neo-Brutalist Frontend
-├── 102317257.py        # CLI Mashup Generator (YouTube Search)
+├── 102317256.py        # CLI Mashup Generator (YouTube Search)
 └── README.md           # Project Documentation
 ```
 
@@ -40,11 +40,11 @@ The web interface allows you to create mashups from a pre-downloaded collection 
 The command-line tool provides ultimate flexibility by searching YouTube directly.
 
 ```bash
-python 102317257.py <SingerName> <NumberOfVideos> <AudioDuration> <OutputFileName>
+python 102317256.py <SingerName> <NumberOfVideos> <AudioDuration> <OutputFileName>
 ```
 **Example:**
 ```bash
-python 102317257.py "Arijit Singh" 15 25 arijit_mix.mp3
+python 102317256.py "Arijit Singh" 15 25 arijit_mix.mp3
 ```
 *Note: NumberOfVideos must be > 10 and AudioDuration must be > 20.*
 
