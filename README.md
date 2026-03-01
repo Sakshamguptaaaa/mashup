@@ -68,7 +68,7 @@ python 102317257.py "Arijit Singh" 15 25 arijit_mix.mp3
 
 ## ⚖️ License & Credits
 
-**Author**: Deepansh Tandon  
-**Roll No**: 102317257  
+**Author**: Saksham Gupta
+**Roll No**: 102317256 
 **University**: Thapar Institute of Engineering & Technology  
 **LinkedIn**: [deepanshtandon012](https://www.linkedin.com/in/deepanshtandon012/)
